@@ -19,6 +19,5 @@ var getElementsByClassName = function(className) {
   }
 
   findClass(document.body);
-  console.log(results)
   return results;
 };
